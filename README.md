@@ -5,7 +5,6 @@ It has all the features like:
 1) Home Page
 2) Add Post
 3) Edit Post
-
 4) Add Comment
 5) Register
 6) Login
@@ -16,3 +15,4 @@ It has all the features like:
 11) Featured Image
 12) Admin Dashboard
 13) Viewer Count for Each Post
+14) loans for the farmers(group based loans)
